@@ -61,3 +61,6 @@ Una vez montada, es fundamental ajustar la antena con un NanoVNA para que el ROE
 
 Conclusión
 Con esta construcción sencilla y robusta, tendrás una antena Moxon casera lista para experimentar en la banda de 10 m y explorar también 15 y 20 m. Es un proyecto ideal para radioaficionados que disfrutan del DIY y buscan rendimiento direccional con materiales accesibles.
+
+
+Estos dibujos fueron hechos sin IA, y basandome en el articulo de CQ MAG y el trabajo de TOIVO W8TJM.
