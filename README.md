@@ -7,3 +7,9 @@ El radioaficionado Toivo, W8TJM, popularizó variantes prácticas y económicas 
 
 El objetivo es que, al finalizar, cuentes con una antena lista para operar en la banda de 10 metros, optimizada para DX y contactos locales, combinando portabilidad con rendimiento.
 
+Comencemos!
+
+debemos disponer de conectores PL 259, cable de 4mm para los elementos radiantes y el reflector yo use por ejemplo de colores rojo y azul como se vera en la foto.
+Ademas utilizamos cuatro canas de pescar de 3 metros para los ramas y para el boom una palo de madera. todas las medidas fueron sacadas del video de Toivo.
+
+![Antena Moxon casera](elementos.jpg)
