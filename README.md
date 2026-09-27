@@ -9,7 +9,7 @@ El objetivo es que, al finalizar, cuentes con una antena lista para operar en la
 
 Comencemos!
 
-debemos disponer de conectores PL 259, cable de 4mm para los elementos radiantes y el reflector yo use por ejemplo de colores rojo y azul como se vera en la foto.
+Debemos disponer de conectores PL 259, cable de 4mm para los elementos radiantes y el reflector yo use por ejemplo de colores rojo y azul como se vera en la foto.
 Ademas utilizamos cuatro canas de pescar de 3 metros para los ramas y para el boom una palo de madera. todas las medidas fueron sacadas del video de Toivo.
 
 Aparte debemos tener unos separadores de union de los radiantes y reflectores de 10 cm.
