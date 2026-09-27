@@ -18,3 +18,11 @@ Ademas de las abrazaderas y para que tenga mayor duracion, las piezas en madera 
 
 
 ![Antena Moxon casera](elementos1.jpg)
+
+Proporciono detalles de como ajustar el boom a los ramas para sujetar las canas de pescar.
+
+![Antena Moxon casera](elementos2.jpg)
+
+Proporciono detalles de como se ajustar el centro de la antena al poste que puede ser 6 metros en aluminio, mi opcion favorita.
+
+![Antena Moxon casera](elementos3.jpg)
