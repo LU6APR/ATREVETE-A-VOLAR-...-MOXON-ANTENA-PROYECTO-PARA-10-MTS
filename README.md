@@ -11,7 +11,8 @@ El radioaficionado Toivo, W8TJM popularizó variantes prácticas y económicas d
 
 El objetivo es que, al finalizar, cuentes con una antena lista para operar en la banda de 28 MHz, optimizada para DX y contactos locales, combinando portabilidad con rendimiento.
 
-🛠️ Materiales necesarios
+
+Materiales necesarios
 Conectores PL‑259
 
 Cable de cobre de 4 mm para los elementos radiantes y el reflector (se recomienda usar colores distintos, por ejemplo rojo y azul)
@@ -26,7 +27,8 @@ Abrazaderas y bridas plásticas
 
 Piezas de madera terciada pintadas para impermeabilizar y proteger contra humedad e intemperie
 
-⚙️ Montaje
+
+Montaje
 Boom y brazos
 ![Antena Moxon casera](elementos1.jpg)
 Detalles de cómo ajustar el boom a los brazos para sujetar las cañas de pescar.
@@ -39,5 +41,6 @@ Ajuste final
 ![Antena Moxon casera](elementos3.jpg)
 Una vez montada, es fundamental ajustar la antena con un NanoVNA para que el ROE en la frecuencia de 28 MHz quede en la porción de trabajo deseada.
 
-🎯 Conclusión
+
+Conclusión
 Con esta construcción sencilla y robusta, tendrás una antena Moxon casera lista para experimentar en la banda de 10 m y explorar también 15 y 20 m. Es un proyecto ideal para radioaficionados que disfrutan del DIY y buscan rendimiento direccional con materiales accesibles.
