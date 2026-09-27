@@ -1,4 +1,4 @@
-# 📡 DARE TO FLY – MOXON ANTENNA PROJECT FOR 10 M
+# DARE TO FLY – MOXON ANTENNA PROJECT FOR 10 M
 
 Guide to building an HF antenna for **10 meters** (also resonant on **15 and 20 m**), inspired by the design of radio amateur **Toivo, W8TJM**.  
 [Video reference](https://www.youtube.com/watch?v=dg-1zO1MJS8&t=95s)
