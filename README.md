@@ -30,15 +30,32 @@ Piezas de madera terciada pintadas para impermeabilizar y proteger contra humeda
 
 Montaje
 Boom y brazos
+
+
+
 ![Antena Moxon casera](elementos1.jpg)
+
+
+
 Detalles de cómo ajustar el boom a los brazos para sujetar las cañas de pescar.
 
 Ensamblaje del centro
+
+
+
 ![Antena Moxon casera](elementos2.jpg)
+
+
+
 Detalles de cómo fijar el centro de la antena al poste (preferentemente de 6 m en aluminio).
 
 Ajuste final
+
+
+
 ![Antena Moxon casera](elementos3.jpg)
+
+
 Una vez montada, es fundamental ajustar la antena con un NanoVNA para que el ROE en la frecuencia de 28 MHz quede en la porción de trabajo deseada.
 
 
