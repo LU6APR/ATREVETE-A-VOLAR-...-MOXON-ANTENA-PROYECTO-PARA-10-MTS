@@ -1,4 +1,4 @@
-# 📡 ATRÉVETE A VOLAR – PROYECTO DE ANTENA MOXON PARA 10 MTS
+#  ATRÉVETE A VOLAR – PROYECTO DE ANTENA MOXON PARA 10 MTS
 
 Guía para construir una antena de HF para **10 metros** (resonante también en **15 y 20 m**), inspirada en el diseño del radioaficionado **Toivo, W8TJM**.  
 [Video de referencia](https://www.youtube.com/watch?v=dg-1zO1MJS8&t=95s)
