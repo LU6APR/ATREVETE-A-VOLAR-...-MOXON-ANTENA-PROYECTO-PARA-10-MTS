@@ -1,5 +1,5 @@
 # ATREVETE-A-VOLAR-...-MOXON-ANTENA-PROYECTO-PARA-10-MTS.
-Una guia para armar antena de HF para 10 metros, basado en antena de Toivo, W8TJM 
+Una guia para armar antena de HF para 10 metros (resonante en 15 y 20 mts), basado en antena de Toivo, W8TJM 
 ![Antena Moxon casera](moxon.jpg)
 La antena Moxon es reconocida en el mundo de la radioafición por su sencillez, eficiencia y excelente rendimiento en espacios reducidos. Su diseño rectangular, con extremos doblados hacia adentro, permite obtener un patrón direccional definido y una relación frente‑espalda destacable, todo con materiales accesibles y fáciles de manipular.
 
