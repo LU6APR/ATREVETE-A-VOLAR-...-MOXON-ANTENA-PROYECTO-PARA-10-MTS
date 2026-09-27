@@ -56,7 +56,7 @@ Ajuste final
 ![Antena Moxon casera](elementos3.jpg)
 
 
-Una vez montada, es fundamental ajustar la antena con un NanoVNA para que el ROE en la frecuencia de 28 MHz quede en la porción de trabajo deseada.
+Una vez montada, es fundamental ajustar la antena con un NanoVNA para que el ROE en la frecuencia de 28 MHz quede en la porción de trabajo deseada. Lo mismo para las bandas de 15 y 20 mts.
 
 
 Conclusión
