@@ -1,69 +1,51 @@
-# ATREVETE-A-VOLAR-...-MOXON-ANTENA-PROYECTO-PARA-10-MTS.
+# 📡 ATRÉVETE A VOLAR – PROYECTO DE ANTENA MOXON PARA 10 MTS
 
-
-Guía para construir una antena de HF para 10 metros (resonante también en 15 y 20 m), inspirada en el diseño del radioaficionado Toivo, W8TJM.
-https://www.youtube.com/watch?v=dg-1zO1MJS8&t=95s
+Guía para construir una antena de HF para **10 metros** (resonante también en **15 y 20 m**), inspirada en el diseño del radioaficionado **Toivo, W8TJM**.  
+[Video de referencia](https://www.youtube.com/watch?v=dg-1zO1MJS8&t=95s)
 
 ![Antena Moxon casera](moxon.jpg)
 
-La antena Moxon es reconocida en el mundo de la radioafición por su sencillez, eficiencia y excelente rendimiento en espacios reducidos. Su diseño rectangular, con extremos doblados hacia adentro, permite obtener un patrón direccional definido y una relación frente‑espalda destacable, todo con materiales accesibles y fáciles de manipular.
+---
 
-El radioaficionado Toivo, W8TJM popularizó variantes prácticas y económicas de la Moxon, demostrando que con creatividad y precisión se puede lograr una antena de gran calidad sin necesidad de estructuras complejas. Esta guía toma como referencia sus aportes y los adapta a un enfoque casero, pensado para quienes disfrutan experimentar y construir con sus propias manos.
+## Introducción
+La **antena Moxon** es reconocida en el mundo de la radioafición por su sencillez, eficiencia y excelente rendimiento en espacios reducidos. Su diseño rectangular, con extremos doblados hacia adentro, permite obtener un patrón direccional definido y una destacable relación frente‑espalda, todo con materiales accesibles y fáciles de manipular.
 
-El objetivo es que, al finalizar, cuentes con una antena lista para operar en la banda de 28 MHz, optimizada para DX y contactos locales, combinando portabilidad con rendimiento.
+El radioaficionado **Toivo, W8TJM** popularizó variantes prácticas y económicas de la Moxon, demostrando que con creatividad y precisión se puede lograr una antena de gran calidad sin necesidad de estructuras complejas. Esta guía toma como referencia sus aportes y los adapta a un enfoque casero, pensado para quienes disfrutan experimentar y construir con sus propias manos.
 
-En mi experiencia pude multiplicar por 4 o 6 veces el alcance que tenia en 40 metros con una direccional moderna. Super recomendable! por rendimiento y costo.
+El objetivo es que, al finalizar, cuentes con una antena lista para operar en la banda de **28 MHz**, optimizada para DX y contactos locales, combinando portabilidad con rendimiento.
 
+En mi experiencia, pude multiplicar entre **4 y 6 veces** el alcance que tenía en 40 metros con una direccional moderna. ¡Super recomendable por rendimiento y costo!
 
-Materiales necesarios
-Conectores PL‑259
+---
 
-Cable de cobre de 4 mm para los elementos radiantes y el reflector (se recomienda usar colores distintos, por ejemplo rojo y azul)
+## 🛠️ Materiales necesarios
+- Conectores **PL‑259**  
+- Cable de cobre de **4 mm** para los elementos radiantes y el reflector (se recomienda usar colores distintos, por ejemplo rojo y azul)  
+- **4 cañas de pescar** de 3 m para los brazos  
+- **Boom** de madera  
+- Separadores de unión de **10 cm** entre radiantes y reflector  
+- Abrazaderas y bridas plásticas  
+- Piezas de madera terciada pintadas para impermeabilizar y proteger contra humedad e intemperie  
 
-4 cañas de pescar de 3 m para los brazos
+---
 
-Boom de madera
+## ⚙️ Montaje
 
-Separadores de unión de 10 cm entre radiantes y reflector
-
-Abrazaderas y bridas plásticas
-
-Piezas de madera terciada pintadas para impermeabilizar y proteger contra humedad e intemperie
-
-
-Montaje
-Boom y brazos
-
-
-
-![Antena Moxon casera](elementos1.jpg)
-
-
-
+### Boom y brazos
+![Antena Moxon casera](elementos1.jpg)  
 Detalles de cómo ajustar el boom a los brazos para sujetar las cañas de pescar.
 
-Ensamblaje del centro
+### Ensamblaje del centro
+![Antena Moxon casera](elementos2.jpg)  
+Detalles de cómo fijar el centro de la antena al mástil (preferentemente de **6 m en aluminio**).
 
+### Ajuste final
+![Antena Moxon casera](elementos3.jpg)  
+Una vez montada, es fundamental ajustar la antena con un **NanoVNA** para que el ROE en la frecuencia de **28 MHz** quede en la porción de trabajo deseada. Lo mismo para las bandas de **15 y 20 m**.
 
+---
 
-![Antena Moxon casera](elementos2.jpg)
+## 🎯 Conclusión
+Con esta construcción sencilla y robusta, tendrás una antena Moxon casera lista para experimentar en la banda de 10 m y explorar también 15 y 20 m. Es un proyecto ideal para radioaficionados que disfrutan del **DIY** y buscan rendimiento direccional con materiales accesibles.
 
-
-
-Detalles de cómo fijar el centro de la antena al poste (preferentemente de 6 m en aluminio).
-
-Ajuste final
-
-
-
-![Antena Moxon casera](elementos3.jpg)
-
-
-Una vez montada, es fundamental ajustar la antena con un NanoVNA para que el ROE en la frecuencia de 28 MHz quede en la porción de trabajo deseada. Lo mismo para las bandas de 15 y 20 mts.
-
-
-Conclusión
-Con esta construcción sencilla y robusta, tendrás una antena Moxon casera lista para experimentar en la banda de 10 m y explorar también 15 y 20 m. Es un proyecto ideal para radioaficionados que disfrutan del DIY y buscan rendimiento direccional con materiales accesibles.
-
-
-Estos dibujos fueron hechos sin IA, y basandome en el articulo de CQ MAG y el trabajo de TOIVO W8TJM.
+Estos dibujos fueron hechos sin IA, basándome en el **artículo de CQ MAG** y en el trabajo de **TOIVO W8TJM**.
