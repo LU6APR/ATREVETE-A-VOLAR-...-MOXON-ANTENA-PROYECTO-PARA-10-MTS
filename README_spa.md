@@ -14,7 +14,7 @@ El radioaficionado **Toivo, W8TJM** popularizó variantes prácticas y económic
 
 El objetivo es que, al finalizar, cuentes con una antena lista para operar en la banda de **28 MHz**, optimizada para DX y contactos locales, combinando portabilidad con rendimiento.
 
-En mi experiencia, pude multiplicar entre **4 y 6 veces** el alcance que tenía en 40 metros con una direccional moderna. ¡Super recomendable por rendimiento y costo!
+En mi experiencia, pude multiplicar entre **4 y 6 veces** el alcance que tenía  con una direccional moderna. ¡Super recomendable por rendimiento y costo!
 
 ---
 
