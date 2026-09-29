@@ -14,7 +14,7 @@ Radio amateur **Toivo, W8TJM** popularized practical and economical variants of 
 
 The goal is that, by the end, you will have an antenna ready to operate on the **28 MHz band**, optimized for DX and local contacts, combining portability with performance.
 
-From my own experience, I was able to multiply the range I had on 40 meters by **4 to 6 times** compared to a modern directional antenna. Highly recommended for both performance and cost.
+From my own experience, I was able to multiply the range  by **4 to 6 times** compared to a modern directional antenna. Highly recommended for both performance and cost.
 
 ---
 
